@@ -19,12 +19,5 @@ Red Onion is a feature-rich meal ordering application that provides users with a
 - Firebase: Firebase authentication is integrated for secure user authentication and authorization.
 - Google Maps API: The Google Maps API is utilized to display the restaurant's location and enable order tracking.
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/ahmod001/red_onion.git`
-2. Navigate to the project directory: `cd red_onion`
-3. Install dependencies: `npm install`
-
-##### ©2023 Developed by Ahmod Hasan
 
 # frontendproject
